@@ -7,7 +7,7 @@
     echo "<br/> DATOS RECIBIDOS";
     echo "<br/> Precio productos establecimiento 1: ". $precio1 . "dolares";
     echo "<br/> Precio productos establecimiento 2: ". $precio2 . "dolares";
-    echo "<br/> Precio productos establecimiento 1: ". $precio3 . "dolares <br/>";
+    echo "<br/> Precio productos establecimiento 3: ". $precio3 . "dolares <br/>";
     echo "<br/> Precio medio del producto es de: ". $media . "dolares";
     
     
